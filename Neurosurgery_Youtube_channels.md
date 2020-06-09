@@ -23,4 +23,5 @@ Youtube Channels
 > 21. [SBN Sociedade Brasileira de Neurocirurgia](https://www.youtube.com/channel/UCEYFCL9TeTvvrxuyosGS9Ow/featured) <br> 
 > 22. [Bobby Jones Chiari & Syringomyelia Foundation](https://www.youtube.com/user/CSFinfo2007/videos) <br>
 > 23. [Douglas Gillard, BS, DC, Spine Researcher](https://www.youtube.com/channel/UCtxPv-QQZObi-vPLYswLC3g/videos) <br>
+> 24. [ScoliosisResearchSRS](https://www.youtube.com/user/ScoliosisResearchSRS/videos) 
 
