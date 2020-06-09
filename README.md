@@ -8,7 +8,7 @@ Youtube Channels
 > 6. [Univ of Pittsburgh Neurosurgery](https://www.youtube.com/channel/UCawRhKROPdiQOCG5oetlEOw) <br>
 > 7. [Miami Global Brain Tumor Symposium](https://www.youtube.com/channel/UCk8xDA5Nul_0kFa2L_aOIZw) <br>
 > 8. [Lenox Hill Hospital Neurosurgery](https://www.youtube.com/channel/UCqO6aZ8KQOS0DfSHjT6Kwaw/videos) <br>
-> 9. [Centro de Investigación y Entrenamiento en Neurocirugía - CIEN Neurosurgery (https://www.youtube.com/channel/UCeoarBVuV8n_SrAtQ8Icc1Q) -   <br>
+> 9. [Centro de Investigación y Entrenamiento en Neurocirugía - CIEN Neurosurgery](https://www.youtube.com/channel/UCeoarBVuV8n_SrAtQ8Icc1Q) <br>
 > 10. [Surgeon's Log](https://www.youtube.com/channel/UCvG4yWZBggegY7MvKIOW4sQ) <br>
 > 11. [Mayo Clinic Neurosurgery Teaching Conference](https://www.youtube.com/watch?v=sP6v54hdOjQ) <br>
 > 12. [ Neurosurgery Research & Education Foundation (NREF)](https://www.youtube.com/user/NREFvideos) <br> 
@@ -22,5 +22,5 @@ Youtube Channels
 > 20. [MicroNeuroSurgeryOrg](https://www.youtube.com/user/MicroNeuroSurgeryOrg/featured) <br> 
 > 21. [SBN Sociedade Brasileira de Neurocirurgia](https://www.youtube.com/channel/UCEYFCL9TeTvvrxuyosGS9Ow/featured) <br> 
 > 22. [Bobby Jones Chiari & Syringomyelia Foundation](https://www.youtube.com/user/CSFinfo2007/videos) <br>
-> [Douglas Gillard, BS, DC, Spine Researcher](https://www.youtube.com/channel/UCtxPv-QQZObi-vPLYswLC3g/videos) <br>
+> 23. [Douglas Gillard, BS, DC, Spine Researcher](https://www.youtube.com/channel/UCtxPv-QQZObi-vPLYswLC3g/videos) <br>
 
